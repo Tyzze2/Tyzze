@@ -7,7 +7,7 @@ Presentation
 
 | Skills                           | Language            | <filetype>       |  
 | -------------------------------- | ------------------- | ---------------  |
-| Blender                          | Blender API Python  | .py .obj         |
+| Blender                          | Blender API Python  | .py .obj        learning ![image](https://tunisia-car-hire.co.uk/images/Loader02.gif) |
 | UE4                              | Script              | .json            |
 | Rainmeter                        | Script              | .ini             |
 | BetterDiscord                    | Css                 | .theme.css .json |
@@ -17,5 +17,3 @@ Presentation
 | Python                           | Python              | .py              | 
 | Java script                      | JS                  | .json            |
 | C++ - C# - C                     | C++ - C# - C        | .cpp             |
-
-![image](https://tunisia-car-hire.co.uk/images/Loader02.gif)
