@@ -7,7 +7,7 @@ Presentation
 
 | Skills                           | Language            | <filetype>       |  
 | -------------------------------- | ------------------- | ---------------  |
-| Blender                          | Blender API Python  | .py .obj  <img src="https://www.loumargot-sos-chats.org/wp-content/themes/business-gravity/assets/images/placeholder/loader.gif" width="30" height="30">  learning |
+| Blender                          | Blender API Python  | .py .obj  <img src="https://www.loumargot-sos-chats.org/wp-content/themes/business-gravity/assets/images/placeholder/loader.gif" width="100" height="100">  learning |
 | UE4                              | Script              | .json            |
 | Rainmeter                        | Script              | .ini             |
 | BetterDiscord                    | Css                 | .theme.css .json |
