@@ -7,7 +7,7 @@ Presentation
 
 | Skills                           | Language            | <filetype>       |  
 | -------------------------------- | ------------------- | ---------------  |
-| Blender                          | Blender API Python  | .py .obj  <img src="https://www.galeriekreo.com/wp-content/uploads/2021/02/loading-pieces.gif" width="100" height="100">  learning |
+| Blender                          | Blender API Python  | .py .obj  ///learning <img src="https://www.galeriekreo.com/wp-content/uploads/2021/02/loading-pieces.gif" width="30" height="30">   |
 | UE4                              | Script              | .json            |
 | Rainmeter                        | Script              | .ini             |
 | BetterDiscord                    | Css                 | .theme.css .json |
